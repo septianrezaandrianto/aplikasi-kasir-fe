@@ -24,11 +24,15 @@ h4 {
 
 h5 {
   font-family: 'Courier New', Courier, monospace ;
-  font-size: 16px;
+  font-size: 20px;
 
 }
 
 .category-active {
   background-color: #00b25d;
   color: white;
+}
+
+.btn-success {
+  background-color: #00b25d;
 }
